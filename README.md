@@ -1,7 +1,7 @@
 <h1 align="center">Hi,🌟 I'm Aswanth Krishna</h1>
 <h3 align="center">Full-stack developer with hands on experience in product development</h3>
 
-- 🔭 I’m currently working on **Agency banking**
+- 🔭 I’m currently working on **Fintech- Product development**
 
 - 🌱 I’m currently learning **Nextjs, Nestjs, postgresql**
 
