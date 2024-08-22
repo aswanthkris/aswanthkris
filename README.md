@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [https://orange-romola-98.tiiny.site](https://orange-romola-98.tiiny.site)
 
+  [![aswanthkris's GitHub | Stats](https://stats.quira.sh/aswanthkris/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=aswanthkris)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aswanth-krishna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aswanth-krishna/" height="30" width="40" /></a>
